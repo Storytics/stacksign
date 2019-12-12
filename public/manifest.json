@@ -1,0 +1,12 @@
+{
+  "name": "StackSign",
+  "short_name": "StackSign",
+  "theme_color": "#540032",
+  "background_color": "#540032",
+  "display": "standalone",
+  "Scope": "/",
+  "start_url": "/",
+  "orientation": "portrait",
+  "splash_pages": "null",
+  "lang": "English"
+}
